@@ -28,5 +28,6 @@ SQL Server (Backend) ➔ Python (ETL & Analysis) ➔ Power BI (Visualization)
  Drill-through özellikli interaktif dashboard tasarlandı.
 
 ## 📸 Ekran Görüntüleri
-![Northwind Dashboard](dashboard/first.png)
-![Northwind Dashboard2](dashboard/second.png)
+![Northwind Dashboard](./Dashboard/first.png)
+
+![Northwind Dashboard2](./Dashboard/second.png)
