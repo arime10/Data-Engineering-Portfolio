@@ -18,4 +18,5 @@ Modern web ve mobil uygulamalardan gelen hiyerarşik JSON verilerini (Kişi -> �
 * **DAX:** `AVERAGE` fonksiyonu ile "Ortalama Sepet Tutarı" hesaplaması.
 
 ## 📸 Dashboard Önizleme
-![Json Dashboard](dashboard/first.png)
+![Json Dashboard](./Dashboard/first.png)
+
