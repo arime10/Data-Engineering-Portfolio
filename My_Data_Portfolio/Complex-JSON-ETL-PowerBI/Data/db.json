@@ -1,0 +1,2318 @@
+{
+    "users": [
+        {
+            "PERSON_ID": 1,
+            "NAME": "EMIRHAN DAG",
+            "AGE": 22,
+            "BIRTHDATE": "2002-07-22",
+            "Cities": [
+                {
+                    "CITY_NAME": "TURKEY",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "SAMSUN"
+                        }
+                    ]
+                }
+            ],
+            "Products": [
+                {
+                    "PRODUCT_NAME": "MUSIC ALBUM",
+                    "PRODUCT_TYPE": "MUSIC",
+                    "Orders": [
+                        {
+                            "TOTAL_AMOUNT": 1500,
+                            "ORDER_DATE": "2022-02-11"
+                        }
+                    ]
+                },
+                {
+                    "PRODUCT_NAME": "MUSIC CD",
+                    "PRODUCT_TYPE": "MUSIC",
+                    "Orders": [
+                        {
+                            "TOTAL_AMOUNT": 1250,
+                            "ORDER_DATE": "2022-02-11"
+                        }
+                    ]
+                },
+                {
+                    "PRODUCT_NAME": "BAGGY JEAN",
+                    "PRODUCT_TYPE": "CLOTHES",
+                    "Orders": [
+                        {
+                            "TOTAL_AMOUNT": 850,
+                            "ORDER_DATE": "2025-02-19"
+                        }
+                    ]
+                },
+                {
+                    "PRODUCT_NAME": "AIRPODS",
+                    "PRODUCT_TYPE": "MUSIC",
+                    "Orders": [
+                        {
+                            "TOTAL_AMOUNT": 80000,
+                            "ORDER_DATE": "2023-11-19"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 2,
+            "NAME": "MINATOZAKI SANA",
+            "AGE": 28,
+            "BIRTHDATE": "1996-12-29",
+            "Cities": [
+                {
+                    "CITY_NAME": "JAPAN",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "OSAKA"
+                        }
+                    ]
+                }
+            ],
+            "Products": [
+                {
+                    "PRODUCT_NAME": "JACKET",
+                    "PRODUCT_TYPE": "CLOTHES",
+                    "Orders": [
+                        {
+                            "TOTAL_AMOUNT": 4500,
+                            "ORDER_DATE": "2025-02-19"
+                        }
+                    ]
+                },
+                {
+                    "PRODUCT_NAME": "APPLE MUSIC",
+                    "PRODUCT_TYPE": "MUSIC",
+                    "Orders": [
+                        {
+                            "TOTAL_AMOUNT": 60,
+                            "ORDER_DATE": "2022-04-10"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 3,
+            "NAME": "MIYAWAKI SAKURA",
+            "AGE": 26,
+            "BIRTHDATE": "1998-03-19",
+            "Cities": [
+                {
+                    "CITY_NAME": "JAPAN",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "KAHOSHIMA"
+                        }
+                    ]
+                }
+            ],
+            "Products": [
+                {
+                    "PRODUCT_NAME": "SPOTIFY PREMIUM",
+                    "PRODUCT_TYPE": "MUSIC",
+                    "Orders": [
+                        {
+                            "TOTAL_AMOUNT": 250,
+                            "ORDER_DATE": "2022-04-28"
+                        }
+                    ]
+                },
+                {
+                    "PRODUCT_NAME": "HEADPHONES",
+                    "PRODUCT_TYPE": "MUSIC",
+                    "Orders": [
+                        {
+                            "TOTAL_AMOUNT": 2200,
+                            "ORDER_DATE": "2022-06-12"
+                        }
+                    ]
+                },
+                {
+                    "PRODUCT_NAME": "LOMO CARD",
+                    "PRODUCT_TYPE": "FAN'S CHOICE",
+                    "Orders": [
+                        {
+                            "TOTAL_AMOUNT": 250,
+                            "ORDER_DATE": "2025-02-19"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 4,
+            "NAME": "PARK JIMIN",
+            "AGE": 29,
+            "BIRTHDATE": "1995-10-13",
+            "Cities": [
+                {
+                    "CITY_NAME": "KORE",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "BUSAN"
+                        }
+                    ]
+                }
+            ],
+            "Products": [
+                {
+                    "PRODUCT_NAME": "AIRPODS",
+                    "PRODUCT_TYPE": "MUSIC",
+                    "Orders": [
+                        {
+                            "TOTAL_AMOUNT": 16000,
+                            "ORDER_DATE": "2022-10-15"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 5,
+            "NAME": "KANG TAEHYUN",
+            "AGE": 23,
+            "BIRTHDATE": "2002-02-05",
+            "Cities": [
+                {
+                    "CITY_NAME": "KORE",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "SEOUL"
+                        }
+                    ]
+                }
+            ],
+            "Products": [
+                {
+                    "PRODUCT_NAME": "BEATBOX",
+                    "PRODUCT_TYPE": "MUSIC",
+                    "Orders": [
+                        {
+                            "TOTAL_AMOUNT": 11000,
+                            "ORDER_DATE": "2022-11-01"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 6,
+            "NAME": "JENNIE KIM",
+            "AGE": 29,
+            "BIRTHDATE": "1996-01-16",
+            "Cities": [
+                {
+                    "CITY_NAME": "KORE",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "SEOUL"
+                        }
+                    ]
+                }
+            ],
+            "Products": [
+                {
+                    "PRODUCT_NAME": "SKINNY JEAN",
+                    "PRODUCT_TYPE": "CLOTHES",
+                    "Orders": [
+                        {
+                            "TOTAL_AMOUNT": 1800,
+                            "ORDER_DATE": "2022-11-25"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 7,
+            "NAME": "LISA MANOBAN",
+            "AGE": 27,
+            "BIRTHDATE": "1997-03-27",
+            "Cities": [
+                {
+                    "CITY_NAME": "THAILAND",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "BANGKOK"
+                        }
+                    ]
+                }
+            ],
+            "Products": [
+                {
+                    "PRODUCT_NAME": "BAGGY JEAN",
+                    "PRODUCT_TYPE": "CLOTHES",
+                    "Orders": [
+                        {
+                            "TOTAL_AMOUNT": 9350,
+                            "ORDER_DATE": "2022-12-11"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 8,
+            "NAME": "JISOO KIM",
+            "AGE": 30,
+            "BIRTHDATE": "1995-01-03",
+            "Cities": [
+                {
+                    "CITY_NAME": "KORE",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "SEOUL"
+                        }
+                    ]
+                }
+            ],
+            "Products": [
+                {
+                    "PRODUCT_NAME": "CARGO JEAN",
+                    "PRODUCT_TYPE": "CLOTHES",
+                    "Orders": [
+                        {
+                            "TOTAL_AMOUNT": 1300,
+                            "ORDER_DATE": "2022-12-28"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 9,
+            "NAME": "JEON JUNGKOOK",
+            "AGE": 27,
+            "BIRTHDATE": "1997-09-01",
+            "Cities": [
+                {
+                    "CITY_NAME": "KORE",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "BUSAN"
+                        }
+                    ]
+                }
+            ],
+            "Products": [
+                {
+                    "PRODUCT_NAME": "REGULAR TSHIRT",
+                    "PRODUCT_TYPE": "CLOTHES",
+                    "Orders": [
+                        {
+                            "TOTAL_AMOUNT": 450,
+                            "ORDER_DATE": "2023-01-15"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 10,
+            "NAME": "MIN YOONGI",
+            "AGE": 31,
+            "BIRTHDATE": "1993-03-09",
+            "Cities": [
+                {
+                    "CITY_NAME": "KORE",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "SYDNEY"
+                        }
+                    ]
+                }
+            ],
+            "Products": [
+                {
+                    "PRODUCT_NAME": "TANK",
+                    "PRODUCT_TYPE": "CLOTHES",
+                    "Orders": [
+                        {
+                            "TOTAL_AMOUNT": 475,
+                            "ORDER_DATE": "2023-02-21"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 11,
+            "NAME": "KIM NAMJOON",
+            "AGE": 30,
+            "BIRTHDATE": "1994-09-12",
+            "Cities": [
+                {
+                    "CITY_NAME": "KORE",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "ILSAN"
+                        }
+                    ]
+                }
+            ],
+            "Products": [
+                {
+                    "PRODUCT_NAME": "MACBOOK PRO",
+                    "PRODUCT_TYPE": "ELECTRONICS",
+                    "Orders": [
+                        {
+                            "TOTAL_AMOUNT": 250000,
+                            "ORDER_DATE": "2023-03-15"
+                        }
+                    ]
+                },
+                {
+                    "PRODUCT_NAME": "AIRPODS PRO",
+                    "PRODUCT_TYPE": "MUSIC",
+                    "Orders": [
+                        {
+                            "TOTAL_AMOUNT": 25000,
+                            "ORDER_DATE": "2023-04-20"
+                        }
+                    ]
+                },
+                {
+                    "PRODUCT_NAME": "DESIGNER JACKET",
+                    "PRODUCT_TYPE": "CLOTHES",
+                    "Orders": [
+                        {
+                            "TOTAL_AMOUNT": 15000,
+                            "ORDER_DATE": "2023-05-10"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 12,
+            "NAME": "ROSÉ PARK",
+            "AGE": 27,
+            "BIRTHDATE": "1997-02-11",
+            "Cities": [
+                {
+                    "CITY_NAME": "AUSTRALIA",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "SYDNEY"
+                        }
+                    ]
+                }
+            ],
+            "Products": [
+                {
+                    "PRODUCT_NAME": "GUITAR",
+                    "PRODUCT_TYPE": "MUSIC",
+                    "Orders": [
+                        {
+                            "TOTAL_AMOUNT": 8500,
+                            "ORDER_DATE": "2023-01-25"
+                        }
+                    ]
+                },
+                {
+                    "PRODUCT_NAME": "VINTAGE DRESS",
+                    "PRODUCT_TYPE": "CLOTHES",
+                    "Orders": [
+                        {
+                            "TOTAL_AMOUNT": 3200,
+                            "ORDER_DATE": "2023-02-14"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 13,
+            "NAME": "IU LEE",
+            "AGE": 31,
+            "BIRTHDATE": "1993-05-16",
+            "Cities": [
+                {
+                    "CITY_NAME": "KORE",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "SEOUL"
+                        }
+                    ]
+                }
+            ],
+            "Products": [
+                {
+                    "PRODUCT_NAME": "PIANO",
+                    "PRODUCT_TYPE": "MUSIC",
+                    "Orders": [
+                        {
+                            "TOTAL_AMOUNT": 75000,
+                            "ORDER_DATE": "2023-06-01"
+                        }
+                    ]
+                },
+                {
+                    "PRODUCT_NAME": "ELEGANT DRESS",
+                    "PRODUCT_TYPE": "CLOTHES",
+                    "Orders": [
+                        {
+                            "TOTAL_AMOUNT": 8500,
+                            "ORDER_DATE": "2023-07-15"
+                        }
+                    ]
+                },
+                {
+                    "PRODUCT_NAME": "SPOTIFY PREMIUM",
+                    "PRODUCT_TYPE": "MUSIC",
+                    "Orders": [
+                        {
+                            "TOTAL_AMOUNT": 120,
+                            "ORDER_DATE": "2023-08-01"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 14,
+            "NAME": "KANG DANIEL",
+            "AGE": 28,
+            "BIRTHDATE": "1996-12-10",
+            "Cities": [
+                {
+                    "CITY_NAME": "KORE",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "BUSAN"
+                        }
+                    ]
+                }
+            ],
+            "Products": [
+                {
+                    "PRODUCT_NAME": "DANCE SHOES",
+                    "PRODUCT_TYPE": "CLOTHES",
+                    "Orders": [
+                        {
+                            "TOTAL_AMOUNT": 450,
+                            "ORDER_DATE": "2023-03-08"
+                        }
+                    ]
+                },
+                {
+                    "PRODUCT_NAME": "WORKOUT GEAR",
+                    "PRODUCT_TYPE": "CLOTHES",
+                    "Orders": [
+                        {
+                            "TOTAL_AMOUNT": 280,
+                            "ORDER_DATE": "2023-04-12"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 15,
+            "NAME": "TAEMIN LEE",
+            "AGE": 31,
+            "BIRTHDATE": "1993-07-18",
+            "Cities": [
+                {
+                    "CITY_NAME": "KORE",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "SEOUL"
+                        }
+                    ]
+                }
+            ],
+            "Products": [
+                {
+                    "PRODUCT_NAME": "STUDIO MICROPHONE",
+                    "PRODUCT_TYPE": "MUSIC",
+                    "Orders": [
+                        {
+                            "TOTAL_AMOUNT": 35000,
+                            "ORDER_DATE": "2023-05-20"
+                        }
+                    ]
+                },
+                {
+                    "PRODUCT_NAME": "DESIGNER SUIT",
+                    "PRODUCT_TYPE": "CLOTHES",
+                    "Orders": [
+                        {
+                            "TOTAL_AMOUNT": 12000,
+                            "ORDER_DATE": "2023-06-30"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 16,
+            "NAME": "WENDY SON",
+            "AGE": 30,
+            "BIRTHDATE": "1994-02-21",
+            "Cities": [
+                {
+                    "CITY_NAME": "CANADA",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "TORONTO"
+                        }
+                    ]
+                }
+            ],
+            "Products": [
+                {
+                    "PRODUCT_NAME": "WINTER COAT",
+                    "PRODUCT_TYPE": "CLOTHES",
+                    "Orders": [
+                        {
+                            "TOTAL_AMOUNT": 1800,
+                            "ORDER_DATE": "2023-11-15"
+                        }
+                    ]
+                },
+                {
+                    "PRODUCT_NAME": "APPLE MUSIC",
+                    "PRODUCT_TYPE": "MUSIC",
+                    "Orders": [
+                        {
+                            "TOTAL_AMOUNT": 60,
+                            "ORDER_DATE": "2023-12-01"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 17,
+            "NAME": "BAEKHYUN BYUN",
+            "AGE": 32,
+            "BIRTHDATE": "1992-05-06",
+            "Cities": [
+                {
+                    "CITY_NAME": "KORE",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "SEOUL"
+                        }
+                    ]
+                }
+            ],
+            "Products": [
+                {
+                    "PRODUCT_NAME": "LUXURY WATCH",
+                    "PRODUCT_TYPE": "ACCESSORIES",
+                    "Orders": [
+                        {
+                            "TOTAL_AMOUNT": 95000,
+                            "ORDER_DATE": "2023-09-10"
+                        }
+                    ]
+                },
+                {
+                    "PRODUCT_NAME": "SIGNATURE ALBUM",
+                    "PRODUCT_TYPE": "MUSIC",
+                    "Orders": [
+                        {
+                            "TOTAL_AMOUNT": 2500,
+                            "ORDER_DATE": "2023-10-05"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 18,
+            "NAME": "CHANYEOL PARK",
+            "AGE": 32,
+            "BIRTHDATE": "1992-11-27",
+            "Cities": [
+                {
+                    "CITY_NAME": "KORE",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "SEOUL"
+                        }
+                    ]
+                }
+            ],
+            "Products": [
+                {
+                    "PRODUCT_NAME": "DRUM SET",
+                    "PRODUCT_TYPE": "MUSIC",
+                    "Orders": [
+                        {
+                            "TOTAL_AMOUNT": 45000,
+                            "ORDER_DATE": "2023-07-22"
+                        }
+                    ]
+                },
+                {
+                    "PRODUCT_NAME": "CASUAL OUTFIT",
+                    "PRODUCT_TYPE": "CLOTHES",
+                    "Orders": [
+                        {
+                            "TOTAL_AMOUNT": 850,
+                            "ORDER_DATE": "2023-08-15"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 19,
+            "NAME": "KRYSTAL JUNG",
+            "AGE": 30,
+            "BIRTHDATE": "1994-10-24",
+            "Cities": [
+                {
+                    "CITY_NAME": "USA",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "SAN FRANCISCO"
+                        }
+                    ]
+                }
+            ],
+            "Products": [
+                {
+                    "PRODUCT_NAME": "DESIGNER BAG",
+                    "PRODUCT_TYPE": "ACCESSORIES",
+                    "Orders": [
+                        {
+                            "TOTAL_AMOUNT": 3500,
+                            "ORDER_DATE": "2023-04-18"
+                        }
+                    ]
+                },
+                {
+                    "PRODUCT_NAME": "YOGAPANTS",
+                    "PRODUCT_TYPE": "CLOTHES",
+                    "Orders": [
+                        {
+                            "TOTAL_AMOUNT": 120,
+                            "ORDER_DATE": "2023-05-03"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 20,
+            "NAME": "AMBER LIU",
+            "AGE": 32,
+            "BIRTHDATE": "1992-09-18",
+            "Cities": [
+                {
+                    "CITY_NAME": "USA",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "LOS ANGELES"
+                        }
+                    ]
+                }
+            ],
+            "Products": [
+                {
+                    "PRODUCT_NAME": "SKATEBOARD",
+                    "PRODUCT_TYPE": "SPORTS",
+                    "Orders": [
+                        {
+                            "TOTAL_AMOUNT": 280,
+                            "ORDER_DATE": "2023-06-12"
+                        }
+                    ]
+                },
+                {
+                    "PRODUCT_NAME": "ROCK T-SHIRT",
+                    "PRODUCT_TYPE": "CLOTHES",
+                    "Orders": [
+                        {
+                            "TOTAL_AMOUNT": 45,
+                            "ORDER_DATE": "2023-07-08"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 21,
+            "NAME": "SEULGI KANG",
+            "AGE": 30,
+            "BIRTHDATE": "1994-02-10",
+            "Cities": [
+                {
+                    "CITY_NAME": "KORE",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "SEOUL"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 22,
+            "NAME": "IRENE BAE",
+            "AGE": 33,
+            "BIRTHDATE": "1991-03-29",
+            "Cities": [
+                {
+                    "CITY_NAME": "KORE",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "SEOUL"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 23,
+            "NAME": "KIM SEOKJIN",
+            "AGE": 32,
+            "BIRTHDATE": "1992-12-04",
+            "Cities": [
+                {
+                    "CITY_NAME": "KORE",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "ANYANG"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 24,
+            "NAME": "TAEYONG LEE",
+            "AGE": 29,
+            "BIRTHDATE": "1995-07-01",
+            "Cities": [
+                {
+                    "CITY_NAME": "KORE",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "SEOUL"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 25,
+            "NAME": "JACKSON WANG",
+            "AGE": 30,
+            "BIRTHDATE": "1994-03-28",
+            "Cities": [
+                {
+                    "CITY_NAME": "CHINA",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "HONG KONG"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 26,
+            "NAME": "MARK TUAN",
+            "AGE": 31,
+            "BIRTHDATE": "1993-09-04",
+            "Cities": [
+                {
+                    "CITY_NAME": "USA",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "LOS ANGELES"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 27,
+            "NAME": "BAMBAM BHUWAKUL",
+            "AGE": 27,
+            "BIRTHDATE": "1997-05-02",
+            "Cities": [
+                {
+                    "CITY_NAME": "THAILAND",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "BANGKOK"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 28,
+            "NAME": "JAY PARK",
+            "AGE": 37,
+            "BIRTHDATE": "1987-04-25",
+            "Cities": [
+                {
+                    "CITY_NAME": "USA",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "SEATTLE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 29,
+            "NAME": "TAYLOR SWIFT",
+            "AGE": 35,
+            "BIRTHDATE": "1989-12-13",
+            "Cities": [
+                {
+                    "CITY_NAME": "USA",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "READING"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 30,
+            "NAME": "BEYONCE KNOWLES",
+            "AGE": 43,
+            "BIRTHDATE": "1981-09-04",
+            "Cities": [
+                {
+                    "CITY_NAME": "USA",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "HOUSTON"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 31,
+            "NAME": "ARIANA GRANDE",
+            "AGE": 31,
+            "BIRTHDATE": "1993-06-26",
+            "Cities": [
+                {
+                    "CITY_NAME": "USA",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "BOCA RATON"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 32,
+            "NAME": "BRUNO MARS",
+            "AGE": 39,
+            "BIRTHDATE": "1985-10-08",
+            "Cities": [
+                {
+                    "CITY_NAME": "USA",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "HONOLULU"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 33,
+            "NAME": "BILLIE EILISH",
+            "AGE": 23,
+            "BIRTHDATE": "2001-12-18",
+            "Cities": [
+                {
+                    "CITY_NAME": "USA",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "LOS ANGELES"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 34,
+            "NAME": "JUSTIN TIMBERLAKE",
+            "AGE": 44,
+            "BIRTHDATE": "1981-01-31",
+            "Cities": [
+                {
+                    "CITY_NAME": "USA",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "MEMPHIS"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 35,
+            "NAME": "KATY PERRY",
+            "AGE": 40,
+            "BIRTHDATE": "1984-10-25",
+            "Cities": [
+                {
+                    "CITY_NAME": "USA",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "SANTA BARBARA"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 36,
+            "NAME": "POST MALONE",
+            "AGE": 29,
+            "BIRTHDATE": "1995-07-04",
+            "Cities": [
+                {
+                    "CITY_NAME": "USA",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "SYRACUSE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 37,
+            "NAME": "LADY GAGA",
+            "AGE": 38,
+            "BIRTHDATE": "1986-03-28",
+            "Cities": [
+                {
+                    "CITY_NAME": "USA",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "NEW YORK"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 38,
+            "NAME": "RIHANNA",
+            "AGE": 36,
+            "BIRTHDATE": "1988-02-20",
+            "Cities": [
+                {
+                    "CITY_NAME": "BARBADOS",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "SAINT MICHAEL"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 39,
+            "NAME": "MARIAH CAREY",
+            "AGE": 55,
+            "BIRTHDATE": "1969-03-27",
+            "Cities": [
+                {
+                    "CITY_NAME": "USA",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "HUNTINGTON"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 40,
+            "NAME": "NICK JONAS",
+            "AGE": 32,
+            "BIRTHDATE": "1992-09-16",
+            "Cities": [
+                {
+                    "CITY_NAME": "USA",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "DALLAS"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 41,
+            "NAME": "MILEY CYRUS",
+            "AGE": 32,
+            "BIRTHDATE": "1992-11-23",
+            "Cities": [
+                {
+                    "CITY_NAME": "USA",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "FRANKLIN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 42,
+            "NAME": "SELENA GOMEZ",
+            "AGE": 32,
+            "BIRTHDATE": "1992-07-22",
+            "Cities": [
+                {
+                    "CITY_NAME": "USA",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "GRAND PRAIRIE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 43,
+            "NAME": "SHAWN MENDES",
+            "AGE": 26,
+            "BIRTHDATE": "1998-08-08",
+            "Cities": [
+                {
+                    "CITY_NAME": "CANADA",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "PICKERING"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 44,
+            "NAME": "HALSEY",
+            "AGE": 30,
+            "BIRTHDATE": "1994-09-29",
+            "Cities": [
+                {
+                    "CITY_NAME": "USA",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "EDISON"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 45,
+            "NAME": "LIZZO",
+            "AGE": 36,
+            "BIRTHDATE": "1988-04-27",
+            "Cities": [
+                {
+                    "CITY_NAME": "USA",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "DETROIT"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 46,
+            "NAME": "DOJA CAT",
+            "AGE": 29,
+            "BIRTHDATE": "1995-10-21",
+            "Cities": [
+                {
+                    "CITY_NAME": "USA",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "LOS ANGELES"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 47,
+            "NAME": "THE WEEKND",
+            "AGE": 34,
+            "BIRTHDATE": "1990-02-16",
+            "Cities": [
+                {
+                    "CITY_NAME": "CANADA",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "TORONTO"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 48,
+            "NAME": "TRAVIS SCOTT",
+            "AGE": 33,
+            "BIRTHDATE": "1991-04-30",
+            "Cities": [
+                {
+                    "CITY_NAME": "USA",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "HOUSTON"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 49,
+            "NAME": "MALUMA",
+            "AGE": 31,
+            "BIRTHDATE": "1994-01-28",
+            "Cities": [
+                {
+                    "CITY_NAME": "COLOMBIA",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "MEDELLIN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 50,
+            "NAME": "J BALVIN",
+            "AGE": 39,
+            "BIRTHDATE": "1985-05-07",
+            "Cities": [
+                {
+                    "CITY_NAME": "COLOMBIA",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "MEDELLIN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 51,
+            "NAME": "ANITTA",
+            "AGE": 31,
+            "BIRTHDATE": "1993-03-30",
+            "Cities": [
+                {
+                    "CITY_NAME": "BRAZIL",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "RIO DE JANEIRO"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 52,
+            "NAME": "SHERYL RUBIO",
+            "AGE": 32,
+            "BIRTHDATE": "1992-12-28",
+            "Cities": [
+                {
+                    "CITY_NAME": "VENEZUELA",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "CARACAS"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 53,
+            "NAME": "GEORGE EZRA",
+            "AGE": 31,
+            "BIRTHDATE": "1993-06-07",
+            "Cities": [
+                {
+                    "CITY_NAME": "UK",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "HERTFORD"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 54,
+            "NAME": "CALVIN HARRIS",
+            "AGE": 41,
+            "BIRTHDATE": "1984-01-17",
+            "Cities": [
+                {
+                    "CITY_NAME": "UK",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "DUMFRIES"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 55,
+            "NAME": "RAG N BONE MAN",
+            "AGE": 40,
+            "BIRTHDATE": "1985-01-29",
+            "Cities": [
+                {
+                    "CITY_NAME": "UK",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "UCKFIELD"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 56,
+            "NAME": "ZARA LARSSON",
+            "AGE": 27,
+            "BIRTHDATE": "1997-12-16",
+            "Cities": [
+                {
+                    "CITY_NAME": "SWEDEN",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "STOCKHOLM"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 57,
+            "NAME": "ANA MOURA",
+            "AGE": 45,
+            "BIRTHDATE": "1979-09-17",
+            "Cities": [
+                {
+                    "CITY_NAME": "PORTUGAL",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "SANTAREM"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 58,
+            "NAME": "TIWA SAVAGE",
+            "AGE": 45,
+            "BIRTHDATE": "1980-02-05",
+            "Cities": [
+                {
+                    "CITY_NAME": "NIGERIA",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "LAGOS"
+                        }
+                    ]
+                }
+            ],
+            "Products": [
+                {
+                    "PRODUCT_NAME": "FOOTBALL SHIRT",
+                    "PRODUCT_TYPE": "SPORTS",
+                    "Orders": [
+                        {
+                            "TOTAL_AMOUNT": 420,
+                            "ORDER_DATE": "2023-08-15"
+                        }
+                    ]
+                },
+                {
+                    "PRODUCT_NAME": "LAPTOP",
+                    "PRODUCT_TYPE": "ELECTRONICS",
+                    "Orders": [
+                        {
+                            "TOTAL_AMOUNT": 23000,
+                            "ORDER_DATE": "2023-09-20"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 59,
+            "NAME": "DIAMOND PLATNUMZ",
+            "AGE": 35,
+            "BIRTHDATE": "1989-10-02",
+            "Cities": [
+                {
+                    "CITY_NAME": "TANZANIA",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "DAR ES SALAAM"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 60,
+            "NAME": "BURNA BOY",
+            "AGE": 33,
+            "BIRTHDATE": "1991-07-02",
+            "Cities": [
+                {
+                    "CITY_NAME": "NIGERIA",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "PORT HARCOURT"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 61,
+            "NAME": "YEMI ALADE",
+            "AGE": 35,
+            "BIRTHDATE": "1989-03-13",
+            "Cities": [
+                {
+                    "CITY_NAME": "NIGERIA",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "ABUJA"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 62,
+            "NAME": "BLACK COFFEE",
+            "AGE": 48,
+            "BIRTHDATE": "1976-03-11",
+            "Cities": [
+                {
+                    "CITY_NAME": "SOUTH AFRICA",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "DURBAN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 63,
+            "NAME": "KELLY CLARKSON",
+            "AGE": 42,
+            "BIRTHDATE": "1982-04-24",
+            "Cities": [
+                {
+                    "CITY_NAME": "USA",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "FORT WORTH"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 64,
+            "NAME": "USHER RAYMOND",
+            "AGE": 46,
+            "BIRTHDATE": "1978-10-14",
+            "Cities": [
+                {
+                    "CITY_NAME": "USA",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "DALLAS"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 65,
+            "NAME": "MEGAN THEE STALLION",
+            "AGE": 29,
+            "BIRTHDATE": "1995-02-15",
+            "Cities": [
+                {
+                    "CITY_NAME": "USA",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "HOUSTON"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 66,
+            "NAME": "JOY",
+            "AGE": 28,
+            "BIRTHDATE": "1996-09-03",
+            "Cities": [
+                {
+                    "CITY_NAME": "KORE",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "JEJU"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 67,
+            "NAME": "JO YURI",
+            "AGE": 23,
+            "BIRTHDATE": "2001-10-22",
+            "Cities": [
+                {
+                    "CITY_NAME": "KORE",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "BUSAN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 68,
+            "NAME": "ARIN",
+            "AGE": 25,
+            "BIRTHDATE": "1999-06-18",
+            "Cities": [
+                {
+                    "CITY_NAME": "KORE",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "BUSAN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 69,
+            "NAME": "ED SHEERAN",
+            "AGE": 33,
+            "BIRTHDATE": "1991-02-17",
+            "Cities": [
+                {
+                    "CITY_NAME": "UK",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "TOTTENHAM"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 70,
+            "NAME": "ADELE ADKINS",
+            "AGE": 36,
+            "BIRTHDATE": "1988-05-05",
+            "Cities": [
+                {
+                    "CITY_NAME": "UK",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "TOTTENHAM"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 71,
+            "NAME": "DUA LIPA",
+            "AGE": 29,
+            "BIRTHDATE": "1995-08-22",
+            "Cities": [
+                {
+                    "CITY_NAME": "UK",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "LONDON"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 72,
+            "NAME": "HARRY STYLES",
+            "AGE": 31,
+            "BIRTHDATE": "1994-02-01",
+            "Cities": [
+                {
+                    "CITY_NAME": "UK",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "REDDITCH"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 73,
+            "NAME": "ZAYN MALIK",
+            "AGE": 32,
+            "BIRTHDATE": "1993-01-12",
+            "Cities": [
+                {
+                    "CITY_NAME": "UK",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "BRADFORD"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 74,
+            "NAME": "SAM SMITH",
+            "AGE": 32,
+            "BIRTHDATE": "1992-05-19",
+            "Cities": [
+                {
+                    "CITY_NAME": "UK",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "LONDON"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 75,
+            "NAME": "RITA ORA",
+            "AGE": 34,
+            "BIRTHDATE": "1990-11-26",
+            "Cities": [
+                {
+                    "CITY_NAME": "KOSOVO",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "PRISTINA"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 76,
+            "NAME": "AVICII TIM BERGLING",
+            "AGE": 35,
+            "BIRTHDATE": "1989-09-08",
+            "Cities": [
+                {
+                    "CITY_NAME": "SWEDEN",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "STOCKHOLM"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 77,
+            "NAME": "ROBBIE WILLIAMS",
+            "AGE": 50,
+            "BIRTHDATE": "1974-02-13",
+            "Cities": [
+                {
+                    "CITY_NAME": "UK",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "STOKE ON TRENT"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 78,
+            "NAME": "KYGO KJELLBERG",
+            "AGE": 33,
+            "BIRTHDATE": "1991-09-11",
+            "Cities": [
+                {
+                    "CITY_NAME": "NORWAY",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "BERGEN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 79,
+            "NAME": "BEBE REXHA",
+            "AGE": 35,
+            "BIRTHDATE": "1989-08-30",
+            "Cities": [
+                {
+                    "CITY_NAME": "ALBANIA",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "TIRANA"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 80,
+            "NAME": "STROMAE PAUL VAN HAVER",
+            "AGE": 39,
+            "BIRTHDATE": "1985-03-12",
+            "Cities": [
+                {
+                    "CITY_NAME": "BELGIUM",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "BRUSSELS"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 81,
+            "NAME": "ENYA BRENNAN",
+            "AGE": 63,
+            "BIRTHDATE": "1961-05-17",
+            "Cities": [
+                {
+                    "CITY_NAME": "IRELAND",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "GAOTH DOBHAIR"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 82,
+            "NAME": "DAVID GUETTA",
+            "AGE": 57,
+            "BIRTHDATE": "1967-11-07",
+            "Cities": [
+                {
+                    "CITY_NAME": "FRANCE",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "PARIS"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 83,
+            "NAME": "SHAKIRA MEBARAK",
+            "AGE": 48,
+            "BIRTHDATE": "1977-02-02",
+            "Cities": [
+                {
+                    "CITY_NAME": "ICELAND",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "BARCELONA"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 84,
+            "NAME": "CELINE DION",
+            "AGE": 56,
+            "BIRTHDATE": "1968-03-30",
+            "Cities": [
+                {
+                    "CITY_NAME": "FRANCE",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "CHARLEMAGNE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 85,
+            "NAME": "BJORK GUDMUNDSDOTTIR",
+            "AGE": 59,
+            "BIRTHDATE": "1965-11-21",
+            "Cities": [
+                {
+                    "CITY_NAME": "ICELAND",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "REYKJAVIK"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 86,
+            "NAME": "LUIS FONSI",
+            "AGE": 46,
+            "BIRTHDATE": "1978-04-15",
+            "Cities": [
+                {
+                    "CITY_NAME": "ICELAND",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "MADRID"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 87,
+            "NAME": "ANDREA BOCELLI",
+            "AGE": 66,
+            "BIRTHDATE": "1958-09-22",
+            "Cities": [
+                {
+                    "CITY_NAME": "ITALY",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "LAJATICO"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 88,
+            "NAME": "TOVE LO",
+            "AGE": 37,
+            "BIRTHDATE": "1987-10-29",
+            "Cities": [
+                {
+                    "CITY_NAME": "SWEDEN",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "STOCKHOLM"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 89,
+            "NAME": "KIM CHAEWON",
+            "AGE": 24,
+            "BIRTHDATE": "2000-08-01",
+            "Cities": [
+                {
+                    "CITY_NAME": "KORE",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "SEOUL"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 90,
+            "NAME": "HUH YUNJIN",
+            "AGE": 23,
+            "BIRTHDATE": "2001-10-08",
+            "Cities": [
+                {
+                    "CITY_NAME": "KORE",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "NEW YORK"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 91,
+            "NAME": "KAZUHA NAKAMURA",
+            "AGE": 21,
+            "BIRTHDATE": "2003-08-09",
+            "Cities": [
+                {
+                    "CITY_NAME": "JAPAN",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "KOCHI"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 92,
+            "NAME": "HONG EUNCHAE",
+            "AGE": 18,
+            "BIRTHDATE": "2006-11-10",
+            "Cities": [
+                {
+                    "CITY_NAME": "KORE",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "BUSAN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 93,
+            "NAME": "CHOI SAN",
+            "AGE": 24,
+            "BIRTHDATE": "1999-07-10",
+            "Cities": [
+                {
+                    "CITY_NAME": "KORE",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "NAMHAE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 94,
+            "NAME": "LEE HEESEUNG",
+            "AGE": 23,
+            "BIRTHDATE": "2001-10-15",
+            "Cities": [
+                {
+                    "CITY_NAME": "KORE",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "UIWANG"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 95,
+            "NAME": "DOKYEOM",
+            "AGE": 27,
+            "BIRTHDATE": "1997-02-18",
+            "Cities": [
+                {
+                    "CITY_NAME": "KORE",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "SEOUL"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 96,
+            "NAME": "NAYEON",
+            "AGE": 29,
+            "BIRTHDATE": "1995-09-22",
+            "Cities": [
+                {
+                    "CITY_NAME": "KORE",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "SEOUL"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 97,
+            "NAME": "BANG CHAN",
+            "AGE": 27,
+            "BIRTHDATE": "1997-10-03",
+            "Cities": [
+                {
+                    "CITY_NAME": "AUSTRALIA",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "SYDNEY"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 98,
+            "NAME": "LEE KNOW",
+            "AGE": 26,
+            "BIRTHDATE": "1998-10-25",
+            "Cities": [
+                {
+                    "CITY_NAME": "KORE",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "GIMPO"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 99,
+            "NAME": "CHANGBIN SEO",
+            "AGE": 25,
+            "BIRTHDATE": "1999-08-11",
+            "Cities": [
+                {
+                    "CITY_NAME": "KORE",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "YONGIN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 100,
+            "NAME": "HYUNJIN HWANG",
+            "AGE": 24,
+            "BIRTHDATE": "2000-03-20",
+            "Cities": [
+                {
+                    "CITY_NAME": "KORE",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "INCHEON"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 101,
+            "NAME": "HAN JISUNG",
+            "AGE": 24,
+            "BIRTHDATE": "2000-09-14",
+            "Cities": [
+                {
+                    "CITY_NAME": "KORE",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "INCHEON"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 102,
+            "NAME": "FELIX LEE",
+            "AGE": 24,
+            "BIRTHDATE": "2000-09-15",
+            "Cities": [
+                {
+                    "CITY_NAME": "AUSTRALIA-KORE",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "SYDNEY"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 103,
+            "NAME": "SEUNGMIN KIM",
+            "AGE": 24,
+            "BIRTHDATE": "2000-09-22",
+            "Cities": [
+                {
+                    "CITY_NAME": "KORE",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "SEOUL"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 104,
+            "NAME": "I.N YANG JEONG-IN",
+            "AGE": 23,
+            "BIRTHDATE": "2001-02-08",
+            "Cities": [
+                {
+                    "CITY_NAME": "KORE",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "BUSAN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 105,
+            "NAME": "AHN YUJIN",
+            "AGE": 21,
+            "BIRTHDATE": "2003-09-01",
+            "Cities": [
+                {
+                    "CITY_NAME": "KORE",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "DAEJEON"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 106,
+            "NAME": "GAEUL KIM",
+            "AGE": 22,
+            "BIRTHDATE": "2002-10-24",
+            "Cities": [
+                {
+                    "CITY_NAME": "KORE",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "INCHEON"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 107,
+            "NAME": "REI NAOI",
+            "AGE": 21,
+            "BIRTHDATE": "2004-02-03",
+            "Cities": [
+                {
+                    "CITY_NAME": "JAPAN",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "NAGOYA"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 108,
+            "NAME": "JANG WONYOUNG",
+            "AGE": 20,
+            "BIRTHDATE": "2004-08-31",
+            "Cities": [
+                {
+                    "CITY_NAME": "KORE",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "SEOUL"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 109,
+            "NAME": "LIZ KIM JI-WON",
+            "AGE": 20,
+            "BIRTHDATE": "2004-11-21",
+            "Cities": [
+                {
+                    "CITY_NAME": "KORE",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "JEJU"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 110,
+            "NAME": "LEESEO KIM HYUN-SEO",
+            "AGE": 17,
+            "BIRTHDATE": "2007-02-21",
+            "Cities": [
+                {
+                    "CITY_NAME": "KORE",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "SEOUL"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 111,
+            "NAME": "JIU",
+            "AGE": 30,
+            "BIRTHDATE": "1994-05-17",
+            "Cities": [
+                {
+                    "CITY_NAME": "KORE",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "DAEJEON"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 112,
+            "NAME": "KYUJIN",
+            "AGE": 18,
+            "BIRTHDATE": "2006-05-26",
+            "Cities": [
+                {
+                    "CITY_NAME": "KORE",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "SEONGNAM"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 113,
+            "NAME": "ROWOON",
+            "AGE": 28,
+            "BIRTHDATE": "1996-08-07",
+            "Cities": [
+                {
+                    "CITY_NAME": "KORE",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "SEOUL"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 114,
+            "NAME": "CHA EUNWOO",
+            "AGE": 28,
+            "BIRTHDATE": "1997-03-30",
+            "Cities": [
+                {
+                    "CITY_NAME": "KORE",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "GUNPO"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 115,
+            "NAME": "SOLAR",
+            "AGE": 34,
+            "BIRTHDATE": "1991-02-21",
+            "Cities": [
+                {
+                    "CITY_NAME": "KORE",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "GANGSEO"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 116,
+            "NAME": "SIM JAEYUN (JAKE)",
+            "AGE": 23,
+            "BIRTHDATE": "2002-11-15",
+            "Cities": [
+                {
+                    "CITY_NAME": "AUSTRALIA",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "SEOUL"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PERSON_ID": 117,
+            "NAME": "LEE DONG-WOOK",
+            "AGE": 44,
+            "BIRTHDATE": "1981-11-06",
+            "Cities": [
+                {
+                    "CITY_NAME": "KORE",
+                    "Districts": [
+                        {
+                            "DISTRICT_NAME": "SEOUL"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
